@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'cmsmasters-demo-icons';
+  src:  url('fonts/cmsmasters-demo-icons.eot.eot');
+  src:  url('fonts/cmsmasters-demo-icons.eot.eot#iefix') format('embedded-opentype'),
+    url('fonts/cmsmasters-demo-icons.ttf') format('truetype'),
+    url('fonts/cmsmasters-demo-icons.woff') format('woff'),
+    url('fonts/cmsmasters-demo-icons.svg#cmsmasters-demo-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="cms-demo-icon-"], [class*=" cms-demo-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'cmsmasters-demo-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cms-demo-icon-insurance:before {
+  content: "\e900";
+}
+.cms-demo-icon-arrow-left:before {
+  content: "\e901";
+}
+.cms-demo-icon-arrow-right:before {
+  content: "\e902";
+}
+.cms-demo-icon-cancel:before {
+  content: "\e903";
+}
+.cms-demo-icon-chat:before {
+  content: "\e904";
+}
+.cms-demo-icon-check:before {
+  content: "\e905";
+}
+.cms-demo-icon-date:before {
+  content: "\e906";
+}
+.cms-demo-icon-dropdown-down:before {
+  content: "\e907";
+}
+.cms-demo-icon-dropdown-up:before {
+  content: "\e908";
+}
+.cms-demo-icon-hospitality:before {
+  content: "\e909";
+}
+.cms-demo-icon-Icon:before {
+  content: "\e90a";
+}
+.cms-demo-icon-letter:before {
+  content: "\e90b";
+}
+.cms-demo-icon-location:before {
+  content: "\e90c";
+}
+.cms-demo-icon-menu:before {
+  content: "\e90d";
+}
+.cms-demo-icon-phone:before {
+  content: "\e90e";
+}
+.cms-demo-icon-play:before {
+  content: "\e90f";
+}
+.cms-demo-icon-privacy:before {
+  content: "\e910";
+}
+.cms-demo-icon-search:before {
+  content: "\e911";
+}
+.cms-demo-icon-Star:before {
+  content: "\e912";
+}
+.cms-demo-icon-support:before {
+  content: "\e913";
+}
+.cms-demo-icon-time:before {
+  content: "\e914";
+}
+.cms-demo-icon-toggle-down:before {
+  content: "\e915";
+}
+.cms-demo-icon-toggle-up:before {
+  content: "\e916";
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Treatment Manager &#8211; Abbington House Rehab</title>
+	<atom:link href="https://abbingtonhouse.co.uk/team-roles/treatment-manager/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abbingtonhouse.co.uk</link>
+	<description></description>
+	<lastBuildDate>Wed, 23 Apr 2025 09:32:13 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://abbingtonhouse.co.uk/wp-content/uploads/2025/02/cropped-abbington-favicon-32x32.png</url>
+	<title>Treatment Manager &#8211; Abbington House Rehab</title>
+	<link>https://abbingtonhouse.co.uk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Michael Williams</title>
+		<link>https://abbingtonhouse.co.uk/meet-our-team/michael-williams/</link>
+					<comments>https://abbingtonhouse.co.uk/meet-our-team/michael-williams/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 02 Feb 2025 13:47:31 +0000</pubDate>
+				<guid isPermaLink="false">https://search-recovery.com/abbingtonhouse/cmsms_doctor/michael-williams/</guid>
+
+					<description><![CDATA[I bring both personal experience and professional expertise to my role at Abbington House. Having battled addiction myself for over a decade, I truly understand the struggles that our clients face. My own recovery journey began in 2011, after years of substance misuse and incarceration. Today, I am proud to use my story to inspire...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="41687" class="elementor elementor-41687" data-elementor-post-type="meet-our-team">
+				<div class="elementor-element elementor-element-161687e5 e-flex e-con-boxed cmsmasters-block-default e-con e-parent" data-id="161687e5" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-15441e7d cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="15441e7d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									
+<p><span style="font-weight: 400;">I bring both personal experience and professional expertise to my role at Abbington House. Having battled addiction myself for over a decade, I truly understand the struggles that our clients face. My own recovery journey began in 2011, after years of substance misuse and incarceration. Today, I am proud to use my story to inspire others and guide them through the most challenging parts of their recovery.</span></p>
+<p><span style="font-weight: 400;">I believe that addiction treatment is not just about stopping the drugs or alcohol; it’s about finding the root cause of the pain. Our holistic approach focuses on the whole person—addressing mental, physical, and emotional health while providing strong family support. I work hard to make sure every client feels seen, heard, and understood, because I know how critical that sense of care and compassion is to long-term recovery.</span></p>
+<p><span style="font-weight: 400;">Outside of work, I spend time with my family, continue my studies in addiction psychology, and remain committed to my own journey of sobriety.</span></p>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://abbingtonhouse.co.uk/meet-our-team/michael-williams/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

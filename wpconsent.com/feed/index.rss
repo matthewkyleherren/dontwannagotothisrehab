@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WPConsent</title>
+	<atom:link href="https://wpconsent.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wpconsent.com</link>
+	<description>Top-Rated WordPress Consent Management Plugin</description>
+	<lastBuildDate>Tue, 22 Apr 2025 12:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://wpconsent.com/wp-content/uploads/2025/01/wpconsent-icon-1-50x50.png</url>
+	<title>WPConsent</title>
+	<link>https://wpconsent.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Introducing WPConsent 1.0.5: New Content Blocking Feature+ Improved Preferences Panel Design</title>
+		<link>https://wpconsent.com/introducing-wpconsent-1-0-5-new-content-blocking-feature-improved-preferences-panel-design/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=introducing-wpconsent-1-0-5-new-content-blocking-feature-improved-preferences-panel-design</link>
+					<comments>https://wpconsent.com/introducing-wpconsent-1-0-5-new-content-blocking-feature-improved-preferences-panel-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Aazim Akhtar]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[content blocking]]></category>
+		<category><![CDATA[cookie consent]]></category>
+		<category><![CDATA[dailymotion]]></category>
+		<category><![CDATA[Google Maps]]></category>
+		<category><![CDATA[Preferences Panel]]></category>
+		<category><![CDATA[script blocking]]></category>
+		<category><![CDATA[vimeo]]></category>
+		<category><![CDATA[wpconsent]]></category>
+		<category><![CDATA[youtube videos]]></category>
+		<guid isPermaLink="false">https://wpconsent.com/?p=1028</guid>
+
+					<description><![CDATA[<p>Did you know that many visitors only engage with videos on a site that respects their privacy preferences? To give you more control over user privacy and website compliance, I am thrilled to announce the release of WPConsent 1.0.5! In this latest version, you get a new Content Blocking feature which prevents third-party services from [&#8230;]</p>
+<p>The post <a href="https://wpconsent.com/introducing-wpconsent-1-0-5-new-content-blocking-feature-improved-preferences-panel-design/">Introducing WPConsent 1.0.5: New Content Blocking Feature+ Improved Preferences Panel Design</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Did you know that many visitors only engage with videos on a site that respects their privacy preferences?</p>
+
+
+
+<p>To give you more control over user privacy and website compliance, I am thrilled to announce the release of WPConsent 1.0.5!</p>
+
+
+
+<p>In this latest version, you get a new Content Blocking feature which prevents third-party services from loading iframes before consent is given. This means that videos, reCAPTCHA, and Google Maps will only load when a user provides consent.</p>
+
+
+
+<p>Besides that, the preferences panel is getting a makeover for improved user experience.</p>
+
+
+
+<p>Let&#8217;s look at these features in detail.</p>
+
+
+
+<h3 class="wp-block-heading">New Content Blocking Feature</h3>
+
+
+
+<p>In our ongoing commitment to user privacy, the version 1.0.5 introduces a new Content Blocking feature!</p>
+
+
+
+<p>Your embedded videos, Google Maps, and reCAPTCHA v2 are now automatically blocked until consent is given, no coding required.</p>
+
+
+
+<p>What this means is that WPConsent now automatically blocks embedded content from popular video platforms (YouTube, Vimeo, and Dailymotion) until a user grants consent. Not only that, but it also prevents content embedded in iframes for reCAPTCHA and Google Maps before consent is given.</p>
+
+
+
+<p>You can visit the <strong>WPConsent » Settings</strong> page from the WordPress dashboard and scroll down to the <strong>Content Blocking</strong> section. Simply click the toggle to enable this feature and stop services that use iframes from loading before consent is given.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="494" src="https://wpconsent.com/wp-content/uploads/2025/04/content-blocking-settings.png" alt="Content blocking settings" class="wp-image-1030" srcset="https://wpconsent.com/wp-content/uploads/2025/04/content-blocking-settings.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/content-blocking-settings-300x145.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/content-blocking-settings-768x371.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/content-blocking-settings-50x24.png 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Next, you&#8217;ll see a list of <a href="https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/" title="How to Block Third Party Cookies on Your WordPress Website">third party services</a>. By default, all the supported services will be enabled, but you select which platforms to block. For example, if you only want to prevent embedded YouTube videos from loading, then you can disable all other services. </p>
+
+
+
+<p>WPConsent also gives you the option to customize the Placeholder Button text that will appear on the embedded content. </p>
+
+
+
+<p>For instance, when a visitor views a page with a YouTube video on your site, they&#8217;ll need to click on the video to accept cookies and load the content. They can also click the &#8216;Accept&#8217; button in the <a href="https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/" title="How to Add a Cookie Consent Banner on Your WordPress Website">cookie consent banner</a> to load the video.    </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="526" src="https://wpconsent.com/wp-content/uploads/2025/04/view-content-blocking-placeholder.png" alt="View content blocking placeholder" class="wp-image-1032" srcset="https://wpconsent.com/wp-content/uploads/2025/04/view-content-blocking-placeholder.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/view-content-blocking-placeholder-300x154.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/view-content-blocking-placeholder-768x395.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/view-content-blocking-placeholder-50x26.png 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Improved Preferences Panel Design</h3>
+
+
+
+<p>In WPConsent 1.0.5, you&#8217;ll get a refreshed look at the preferences panel! </p>
+
+
+
+<p>The new design of the panel is more intuitive and user-friendly, making it easier for your visitors to <a href="https://wpconsent.com/how-to-manage-cookie-consent-data-in-wordpress/" title="How to Manage Cookie Consent Data in WordPress (Easy Way)">manage their cookie preferences</a>.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="529" src="https://wpconsent.com/wp-content/uploads/2025/04/new-preferences-panel.png" alt="New preferences panel" class="wp-image-1033" srcset="https://wpconsent.com/wp-content/uploads/2025/04/new-preferences-panel.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/new-preferences-panel-300x155.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/new-preferences-panel-768x397.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/new-preferences-panel-50x26.png 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>And to give your users complete transparency, the updated Preferences Panel now loads all cookie data directly within the panel. </p>
+
+
+
+<p>This provides a comprehensive overview of the cookies in use and empowers users to make informed decisions about their consent.</p>
+
+
+
+<p>For example, if you expand the Essential cookies section, you&#8217;ll all the details of each cookie. From their name and description to duration and service URL. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="515" src="https://wpconsent.com/wp-content/uploads/2025/04/view-details-of-cookies-in-preferences-panel.png" alt="View details of cookies in preferences panel" class="wp-image-1034" srcset="https://wpconsent.com/wp-content/uploads/2025/04/view-details-of-cookies-in-preferences-panel.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/view-details-of-cookies-in-preferences-panel-300x151.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/view-details-of-cookies-in-preferences-panel-768x386.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/view-details-of-cookies-in-preferences-panel-50x25.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>I am excited for you to try out these new features and see the improvements firsthand!</p>
+
+
+
+<p>So are you ready to upgrade your privacy game? <a href="https://wpconsent.com/pricing/" title="Update to WPConsent 1.0.5 today">Update to WPConsent 1.0.5 today</a> and see the difference for yourself.</p>
+
+
+
+<p>As always, thank you for your continued trust in WPConsent. Our team is committed to making privacy compliance simpler and more effective for everyone.</p>
+
+
+
+<p>If you have any questions, feedback, or require support, then reach out to use, and our team <a href="https://wpconsent.com/contact/" title="Reach Out to WPConsent Support">assist you</a>. </p>
+
+
+
+<p></p><p>The post <a href="https://wpconsent.com/introducing-wpconsent-1-0-5-new-content-blocking-feature-improved-preferences-panel-design/">Introducing WPConsent 1.0.5: New Content Blocking Feature+ Improved Preferences Panel Design</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://wpconsent.com/introducing-wpconsent-1-0-5-new-content-blocking-feature-improved-preferences-panel-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Introducing WPConsent 1.0.4: Full Multilingual Support, Improved Scanner, &#038; More</title>
+		<link>https://wpconsent.com/introducing-wpconsent-1-0-4-full-multilingual-support-improved-scanner/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=introducing-wpconsent-1-0-4-full-multilingual-support-improved-scanner</link>
+					<comments>https://wpconsent.com/introducing-wpconsent-1-0-4-full-multilingual-support-improved-scanner/#respond</comments>
+		
+		<dc:creator><![CDATA[Aazim Akhtar]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[cookie banner]]></category>
+		<category><![CDATA[cookie consent]]></category>
+		<category><![CDATA[multilingual support]]></category>
+		<category><![CDATA[scan your site for scripts]]></category>
+		<category><![CDATA[scanner]]></category>
+		<category><![CDATA[script blocking]]></category>
+		<category><![CDATA[translation plugins]]></category>
+		<category><![CDATA[wpconsent]]></category>
+		<category><![CDATA[wpconsent scanner]]></category>
+		<guid isPermaLink="false">https://wpconsent.com/?p=971</guid>
+
+					<description><![CDATA[<p>For the past few weeks, our team has been listening to your feedback and focused on making WPConsent even more user-friendly, customizable, and effective than ever before. And today I am thrilled to announce the release of WPConsent 1.0.4! You can now easily edit content in WPConsent in multiple languages. The best part, you also [&#8230;]</p>
+<p>The post <a href="https://wpconsent.com/introducing-wpconsent-1-0-4-full-multilingual-support-improved-scanner/">Introducing WPConsent 1.0.4: Full Multilingual Support, Improved Scanner, & More</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>For the past few weeks, our team has been listening to your feedback and focused on making WPConsent even more user-friendly, customizable, and effective than ever before.</p>
+
+
+
+<p>And today I am thrilled to announce the release of WPConsent 1.0.4!</p>
+
+
+
+<p>You can now easily edit content in WPConsent in multiple languages. The best part, you also get support for the best multilingual and translation plugins for WordPress.&nbsp;</p>
+
+
+
+<p>That&#8217;s not all, the WPConsent scanner got a major improvement, allowing it to detect new services without having to update the plugin. Plus, you’ll find new customization options for the preferences panel.&nbsp;</p>
+
+
+
+<p>With that, here&#8217;s a breakdown of everything that&#8217;s new.</p>
+
+
+
+<h3 class="wp-block-heading">WPConsent Gets Full Multilingual Support</h3>
+
+
+
+<p>In this latest version, I am pleased to introduce the new Language Settings feature for WPConsent. You can now easily edit and display content in the plugin in different languages.</p>
+
+
+
+<p>What this means is that you can show banner text, change preferences panel content, and more in multiple languages.&nbsp;</p>
+
+
+
+<p>To start, simply head over to the <strong>WPConsent » Settings</strong> page from the WordPress dashboard and switch to the ‘Languages’ tab. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="497" src="https://wpconsent.com/wp-content/uploads/2025/04/view-language-settings-wpconsent.png" alt="View language settings WPConsent" class="wp-image-995" srcset="https://wpconsent.com/wp-content/uploads/2025/04/view-language-settings-wpconsent.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/view-language-settings-wpconsent-300x146.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/view-language-settings-wpconsent-768x373.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/view-language-settings-wpconsent-50x24.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>From here, you can go to the ‘Language Settings’ section and select the languages you want to make available for your content.&nbsp;</p>
+
+
+
+<p>Simply choose the language from the list and click the ‘Save Changes’ button.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="443" src="https://wpconsent.com/wp-content/uploads/2025/04/select-your-preferred-language-and-enable-language-picker.png" alt="Select your preferred language and enable language picker" class="wp-image-994" srcset="https://wpconsent.com/wp-content/uploads/2025/04/select-your-preferred-language-and-enable-language-picker.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/select-your-preferred-language-and-enable-language-picker-300x130.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/select-your-preferred-language-and-enable-language-picker-768x332.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/select-your-preferred-language-and-enable-language-picker-50x22.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You should now see a new globe icon in the top right corner of WPConsent.&nbsp;</p>
+
+
+
+<p>By clicking the icon, you’ll see all the languages you selected under the Language Settings.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="464" src="https://wpconsent.com/wp-content/uploads/2025/04/select-preferred-language.png" alt="Select preferred language" class="wp-image-993" srcset="https://wpconsent.com/wp-content/uploads/2025/04/select-preferred-language.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/select-preferred-language-300x136.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/select-preferred-language-768x348.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/select-preferred-language-50x23.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Next, you can edit content in WPConsent in your native language. For example, let’s say you want to add a banner text in French.&nbsp;</p>
+
+
+
+<p>First, you can click the globe icon and switch to <strong>Français</strong>. After that, head to the Banner Design page in WPConsent and switch to the Content tab to enter your text.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="500" src="https://wpconsent.com/wp-content/uploads/2025/04/enter-banner-text-in-new-language.png" alt="Enter banner text in new language" class="wp-image-992" srcset="https://wpconsent.com/wp-content/uploads/2025/04/enter-banner-text-in-new-language.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/enter-banner-text-in-new-language-300x146.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/enter-banner-text-in-new-language-768x375.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/enter-banner-text-in-new-language-50x24.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Once you save the settings, your new text will be saved in the desired language.&nbsp;</p>
+
+
+
+<p>Now, when you switch between languages in WPConsent, the text will automatically change.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="496" src="https://wpconsent.com/wp-content/uploads/2025/04/change-language-settings.gif" alt="Change language settings" class="wp-image-991"/></figure>
+
+
+
+<p>Besides that, WPConsent now also offers a ‘Language Picker’ option. </p>
+
+
+
+<p>You can simply enable this in Language Settings and show a globe icon in the consent banner.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="443" src="https://wpconsent.com/wp-content/uploads/2025/04/enable-language-picker-option.png" alt="Enable language picker option" class="wp-image-990" srcset="https://wpconsent.com/wp-content/uploads/2025/04/enable-language-picker-option.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/enable-language-picker-option-300x130.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/enable-language-picker-option-768x332.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/enable-language-picker-option-50x22.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This allows your visitors to switch between languages for the banner and preferences panel.&nbsp;&nbsp;</p>
+
+
+
+<p>For instance, users can simply click the globe icon in the banner and choose their preferred language from the dropdown menu.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="308" src="https://wpconsent.com/wp-content/uploads/2025/04/choose-language-for-consent-banner.png" alt="Choose language for consent banner" class="wp-image-989" srcset="https://wpconsent.com/wp-content/uploads/2025/04/choose-language-for-consent-banner.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/choose-language-for-consent-banner-300x90.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/choose-language-for-consent-banner-768x231.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/choose-language-for-consent-banner-50x15.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>WPConsent Supports Popular WordPress Translation Plugins</strong></p>
+
+
+
+<p>The best part is that WPConsent also supports some of the <a href="https://www.wpbeginner.com/showcase/9-best-translation-plugins-for-wordpress-websites/" target="_blank" rel="noopener" title="9 Best WordPress Translation Plugins for Multilingual Websites">best WordPress translation and multilingual plugins</a>, like TranslatePress, WPML, Polylang, MultilingualPress, and more. </p>
+
+
+
+<p>If you’ve translated your website in different languages using a multilingual plugin, then you can simply switch to your preferred language.&nbsp;</p>
+
+
+
+<p>This way, you can edit the plugin settings, banner text, and make other changes using the same interface but in your native language.&nbsp;</p>
+
+
+
+<p>For example, let’s say you’re using TranslatePress and added French as another language. If you visit your site and change the language to French, then the cookie banner will also automatically switch to the French language.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="198" src="https://wpconsent.com/wp-content/uploads/2025/04/switch-language-using-a-plugin.gif" alt="Switch language using a plugin" class="wp-image-988"/></figure>
+
+
+
+<h3 class="wp-block-heading">Easily Customize Preferences Panel in the Cookie Banner</h3>
+
+
+
+<p>With WPConsent 1.0.4, you now have the ability to edit and customize the preferences panel text in a <a href="https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/" title="How to Add a Cookie Consent Banner on Your WordPress Website">cookie consent banner</a> directly from your WordPress admin. </p>
+
+
+
+<p>Want to tweak the wording of a description? Need to adjust the title or button text? WPConsent has got you covered! </p>
+
+
+
+<p>Simply head over to the &#8216;Content&#8217; tab in Banner Design from your WordPress dashboard and scroll down to the Preferences section. Here, you&#8217;ll find options to change the panel title and description, edit the cookie policy title and text, and alter the save button text.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="482" src="https://wpconsent.com/wp-content/uploads/2025/04/customize-preferences-panel-text.png" alt="Customize preferences panel text" class="wp-image-974" srcset="https://wpconsent.com/wp-content/uploads/2025/04/customize-preferences-panel-text.png 1024w, https://wpconsent.com/wp-content/uploads/2025/04/customize-preferences-panel-text-300x141.png 300w, https://wpconsent.com/wp-content/uploads/2025/04/customize-preferences-panel-text-768x362.png 768w, https://wpconsent.com/wp-content/uploads/2025/04/customize-preferences-panel-text-50x24.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Improved Scanner + Better Cookie Compliance</h3>
+
+
+
+<p>Aside from new features, WPConsent 1.0.4 offers a significantly improved scanner.</p>
+
+
+
+<p>Previously, the WPConsent scanner would simply scan your site for scripts that add cookies. Each time a new service was added, you’d have to manually update the plugin.&nbsp;</p>
+
+
+
+<p>But now, the scanner uses our servers for service detection. This means that you get real-time detection while all the data is still hosted on your site.&nbsp;</p>
+
+
+
+<p>As a result, you&#8217;ll benefit from better coverage for <a href="https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/" title="How to Block Third Party Cookies on Your WordPress Website ">detecting services</a> that add cookies to your website without the need to update WPConsent. </p>
+
+
+
+<p>This also protects your site if a service decides to update that way it adds cookies to a website. WPConsent will handle everything for you in the background, and you don’t have to worry about the scanner being outdated.&nbsp;</p>
+
+
+
+<p>Other than that, WPConsent enhances how cookies are handled on your site. </p>
+
+
+
+<p>Now, cookies are cleared when consent is revoked by a user. This crucial update strengthens your compliance by ensuring that user preferences are respected and implemented immediately and effectively.</p>
+
+
+
+<p>That said, you can try out new features and improvements in WPConsent Pro and Lite versions. </p>
+
+
+
+<p>Simply <a href="https://wpconsent.com/pricing/" title="Get WPConsent Pro Today">update to the latest 1.0.4 version</a> and take your website&#8217;s consent management to the next level!</p>
+
+
+
+<p>If you have any questions or feedback, then don’t hesitate to reach out. Our team is always here to&nbsp;<a href="https://wpconsent.com/contact/" title="Contact WPConsent Support">assist you</a>.</p><p>The post <a href="https://wpconsent.com/introducing-wpconsent-1-0-4-full-multilingual-support-improved-scanner/">Introducing WPConsent 1.0.4: Full Multilingual Support, Improved Scanner, & More</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://wpconsent.com/introducing-wpconsent-1-0-4-full-multilingual-support-improved-scanner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Manage Cookie Consent Data in WordPress (Easy Way)</title>
+		<link>https://wpconsent.com/how-to-manage-cookie-consent-data-in-wordpress/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-manage-cookie-consent-data-in-wordpress</link>
+					<comments>https://wpconsent.com/how-to-manage-cookie-consent-data-in-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Aazim Akhtar]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Informational]]></category>
+		<category><![CDATA[CCPA]]></category>
+		<category><![CDATA[consent logs]]></category>
+		<category><![CDATA[consent management plugin]]></category>
+		<category><![CDATA[consent records]]></category>
+		<category><![CDATA[cookie banner]]></category>
+		<category><![CDATA[cookie consent]]></category>
+		<category><![CDATA[cookie consent data]]></category>
+		<category><![CDATA[cookies]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[wpconsent]]></category>
+		<guid isPermaLink="false">https://wpconsent.com/?p=931</guid>
+
+					<description><![CDATA[<p>When managing cookie consent data for a website, you often start with adding a popup to request users’ consent for cookie usage. This step is critical because of regulations like GDPR and CCPA are making cookie consent a must-have. However, managing cookie data efficiently in WordPress comes with its challenges and may often require the [&#8230;]</p>
+<p>The post <a href="https://wpconsent.com/how-to-manage-cookie-consent-data-in-wordpress/">How to Manage Cookie Consent Data in WordPress (Easy Way)</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>When managing cookie consent data for a website, you often start with adding a popup to request users’ consent for cookie usage. This step is critical because of regulations like GDPR and CCPA are making cookie consent a must-have. </p>
+
+
+
+<p>However, managing cookie data efficiently in WordPress comes with its challenges and may often require the expertise of a developer. This was something I learned from firsthand experience.</p>
+
+
+
+<p>You would have to analyze various third-party scripts to understand which ones were setting cookies. Then configure a cookie consent banner and manually manage all the cookies in WordPress. This is a time-consuming process and can be complicated for beginners. </p>
+
+
+
+<p>In this article, I&#8217;ll walk you through how to manage cookie consent data in WordPress using a very simple method.  </p>
+
+
+
+<h3 class="wp-block-heading">Why is Cookie Consent Crucial for Your WordPress Website?</h3>
+
+
+
+<p>Cookies are tiny little text files that websites place on your visitors&#8217; browsers. These files help websites remember things about your visitors and their visit. For example, cookies can be used to remember login information, save items in a shopping cart, track website traffic, and show personalized ads.</p>
+
+
+
+<p>Some cookies are essential for a website to function properly – like those that remember your login. Others are non-essential, like those used for analytics or advertising. It&#8217;s these non-essential cookies that are at the heart of cookie consent regulations.</p>
+
+
+
+<p>Now that you understand&nbsp;why&nbsp;you need cookie consent, the story doesn&#8217;t end when a visitor clicks Accept or Reject in the cookie consent banner. Managing the&nbsp;data&nbsp;related to that consent within WordPress is just as crucial, and it comes with its own set of challenges.</p>
+
+
+
+<p>Laws like the General Data Protection Regulation (GDPR) in the European Union, the California Consumer Privacy Act (CCPA) in the US, and similar laws around the world, require websites to get user consent before setting non-essential cookies. Ignoring these regulations can lead to hefty fines and legal actions. </p>
+
+
+
+<p>These laws also give users control over their data, holding website owners accountable for how they manage it. This means you need to not only get consent but also properly record, store, and potentially retrieve that consent information.</p>
+
+
+
+<p>That said, let&#8217;s see how to manage cookie consent data in WordPress. </p>
+
+
+
+<h3 class="wp-block-heading">Managing Cookie Consent Logs in WordPress</h3>
+
+
+
+<p>The easiest way to manage cookie consent data on your site is by using <a href="https://wpconsent.com/" title="WPConsent">WPConsent</a>. It is the best cookie management plugin for WordPress that offers powerful features and making it effortless to see consent logs inside the WordPress dashboard. </p>
+
+
+
+<p>With WPCode, you can also automatically block third-party scripts from adding cookies without consent, 1-click cookie policy configuration, pre-built <a href="https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/" title="How to Add a Cookie Consent Banner on Your WordPress Website">cookie consent banner templates</a>, and more. </p>
+
+
+
+<p>First, you&#8217;ll need to install and activate the WPConsent plugin. If you need help, then please see this guide on <a href="https://www.wpbeginner.com/beginners-guide/step-by-step-guide-to-install-a-wordpress-plugin-for-beginners/" target="_blank" rel="noopener" title="How to Install a WordPress Plugin – Step by Step for Beginners">how to install a WordPress plugin</a>. </p>
+
+
+
+<p><strong>Note:</strong> You&#8217;ll need the <a href="https://wpconsent.com/pricing/" title="WPConsent Pro version">WPConsent Pro version</a> to view consent logs and manage cookie data. The Pro version also offers automatic detection for Cloudflare, WooCommerce and WPForms, modal banner template, and more features. That said, there is also a <a href="https://wordpress.org/plugins/wpconsent-cookies-banner-privacy-suite/" target="_blank" rel="noopener" title="WPConsent Lite version">WPConsent Lite version</a> available for free.</p>
+
+
+
+<p>Once the plugin is active on your site, you&#8217;ll see the WPConsent setup wizard. Go ahead and click the &#8216;Let&#8217;s Get Started&#8217; button and follow the onscreen instructions. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="614" src="https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard.png" alt="WPConsent setup wizard" class="wp-image-804" srcset="https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-300x180.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-768x461.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-50x30.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Next, you can head to&nbsp;<strong>WPConsent » Settings</strong>&nbsp;from the WordPress admin panel.</p>
+
+
+
+<p>After that, scroll down and ensure that the &#8216;Consent Logs&#8217; option is enabled. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="440" src="https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-logs-option.png" alt="Enable consent logs option" class="wp-image-933" srcset="https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-logs-option.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-logs-option-300x129.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-logs-option-768x330.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-logs-option-50x21.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>From here, you can simply go to <strong>WPConsent » Consent Logs</strong> page in WordPress dashboard. </p>
+
+
+
+<p>Here, you&#8217;ll see all the cookie consent data from your visitors. It will show the IP address, which cookies were accepted and declined, and the date. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="476" src="https://wpconsent.com/wp-content/uploads/2025/03/view-consent-logs-.png" alt="View consent logs" class="wp-image-934" srcset="https://wpconsent.com/wp-content/uploads/2025/03/view-consent-logs-.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/view-consent-logs--300x139.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/view-consent-logs--768x357.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/view-consent-logs--50x23.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p> You can also search for a specific user by searching their IP address. </p>
+
+
+
+<p>Besides that, WPConsent also lets you export consent records. To do that, simply switch to the &#8216;Export&#8217; tab. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="602" src="https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs.png" alt="Export consent logs" class="wp-image-869" srcset="https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs-300x176.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs-768x452.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs-50x29.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>From here, you can select the date range and simply click the <strong>Export </strong>button. </p>
+
+
+
+<p>You can then save the CSV file on your computer to manage cookie consent data. </p>
+
+
+
+<h3 class="wp-block-heading">Bonus: Manage Cookie Configuration Data in WordPress</h3>
+
+
+
+<p>With WPConsent, you can also view and manage the details of configured cookies. These are the cookies that are used on your site.</p>
+
+
+
+<p>To view cookies, you can head to <strong>WPConsent » Settings</strong> from the WordPress admin panel and then switch to the &#8216;Cookies&#8217; tab. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="568" src="https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings.png" alt="Manage cookie settings" class="wp-image-519" srcset="https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings-300x166.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings-768x426.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings-50x28.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Here, you will see all the cookies that are added to your site. They will be categorized under Essential, Statistics, and Marketing cookies. </p>
+
+
+
+<p>You can edit their name, change their category, add a description, and adjust the duration. There is also an option to delete the cookie. </p>
+
+
+
+<p>I hope this article helped you learn how to manage cookie consent data in WordPress. You may also want to see our guide on <a href="https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/" title="How to Block Third Party Cookies on Your WordPress Website">how to block third party cookies in WordPress</a>. </p>
+
+
+
+<p>If you liked this article, then please follow us on&nbsp;<a href="https://x.com/wpconsent" target="_blank" rel="noopener" title="Follow WPConsent on X Today!">X (formerly known as Twitter)</a>. You can also leave a comment below if you need any assistance.</p><p>The post <a href="https://wpconsent.com/how-to-manage-cookie-consent-data-in-wordpress/">How to Manage Cookie Consent Data in WordPress (Easy Way)</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://wpconsent.com/how-to-manage-cookie-consent-data-in-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Block Third Party Cookies on Your WordPress Website</title>
+		<link>https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-block-third-party-cookies-on-your-wordpress-website</link>
+					<comments>https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Aazim Akhtar]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Informational]]></category>
+		<category><![CDATA[block third party cookies]]></category>
+		<category><![CDATA[consent management plugin]]></category>
+		<category><![CDATA[cookie banner]]></category>
+		<category><![CDATA[cookie consent]]></category>
+		<category><![CDATA[cookies]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[scan your site for scripts]]></category>
+		<category><![CDATA[script blocking]]></category>
+		<category><![CDATA[wpconsent]]></category>
+		<category><![CDATA[wpconsent scanner]]></category>
+		<guid isPermaLink="false">https://wpconsent.com/?p=885</guid>
+
+					<description><![CDATA[<p>If you&#8217;re running a WordPress website, then understanding and controlling cookies is a necessity, especially with growing privacy regulations like GDPR and CCPA. Cookies are like tiny digital crumbs that websites leave on your web browser. While some cookies are beneficial, others raise privacy concerns. That&#8217;s because you&#8217;ll need to get permission from your visitors [&#8230;]</p>
+<p>The post <a href="https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/">How to Block Third Party Cookies on Your WordPress Website</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>If you&#8217;re running a WordPress website, then understanding and controlling cookies is a necessity, especially with growing privacy regulations like GDPR and CCPA.</p>
+
+
+
+<p>Cookies are like tiny digital crumbs that websites leave on your web browser. While some cookies are beneficial, others raise privacy concerns. That&#8217;s because you&#8217;ll need to get permission from your visitors before using certain types of cookies. </p>
+
+
+
+<p>Sadly, WordPress doesn&#8217;t come with a built-in cookie management system. But with the right plugin, like WPConsent, you can easily set up cookie consent without touching a single line of code and block third-party cookies. </p>
+
+
+
+<p>In this article, I will show you how to block cookies on your WordPress website using a very simple method.</p>
+
+
+
+<h3 class="wp-block-heading">Understanding Different Types of Cookies</h3>
+
+
+
+<p>Cookies are small text files that websites put on your web browsers when you visit them. Think of them as little digital labels that help websites remember things about you, like login details, preferences, and more.</p>
+
+
+
+<p>While there are many types of cookies, they can be generally categorized into two main types:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Essential Cookies:</strong> These cookies are vital for the basic operation of a website. They enable core functionalities like user login, session management, and eCommerce shopping carts. Without these cookies, a website may not function correctly. Generally, these are exempt from strict consent requirements by privacy laws.</li>
+
+
+
+<li><strong>Non-essential Cookies:</strong>&nbsp;These cookies, while not strictly necessary for the website to function, serve various other purposes. They can be further broken down into the following categories:
+<ul class="wp-block-list">
+<li><strong>Statistics Cookies:</strong> Used to track website traffic, user behavior, and engagement. Tools like Google Analytics rely on these cookies to provide website owners with valuable insights.</li>
+
+
+
+<li><strong>Marketing Cookies:</strong> These cookies track users across websites to deliver personalized advertisements and measure the performance of marketing campaigns.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>Now that you understand the basics about cookies, let&#8217;s see why is it important to block them in WordPress. </p>
+
+
+
+<h3 class="wp-block-heading">Why Block Third-Party Cookies in WordPress </h3>
+
+
+
+<p>There are multiple reasons for blocking or controlling cookies on your WordPress website. But one of the main reasons for blocking cookies in WordPress is because of privacy regulations worldwide. They require websites to obtain user consent before setting non-essential cookies.</p>
+
+
+
+<p>For example, General Data Protection Regulation (GDPR)&nbsp;in the European Union requires websites to obtain explicit consent before processing personal data, including the use of non-essential cookies.</p>
+
+
+
+<p>Similarly, California Consumer Privacy Act (CCPA)&nbsp;in California gives consumers rights regarding their personal information. This includes the right to know what data is collected and to opt-out of the sale of their personal information, which can be relevant to certain cookie uses.</p>
+
+
+
+<p>Other regulations like LGPD (Brazil), PIPEDA (Canada), and various state laws in the US are also shaping the landscape of cookie consent and privacy. Non-compliance with these regulations can result in significant fines and legal actions against your website.</p>
+
+
+
+<p>Besides that, transparency and providing users control over cookies are essential for building trust. When users understand how their data is being used and feel they have control, they are more likely to have a positive experience on your website.</p>
+
+
+
+<p>That said, let&#8217;s see how you can easily block cookies on your WordPress website.</p>
+
+
+
+<h3 class="wp-block-heading">Blocking Third Party Cookies on Your WordPress Site</h3>
+
+
+
+<p>The easiest way to block third party cookies in WordPress is by using WPConsent. It is the best WordPress consent management plugin, and it includes a powerful automatic script blocking feature that helps protect your visitors’ privacy by controlling when and how third-party cookies load on your website.</p>
+
+
+
+<p>WPConsent automatically detects scripts from popular services like Google Analytics, Matomo, Google Ads, Facebook Pixel, LinkedIn Insight, Snapchat pixel, TikTok pixel, and more. </p>
+
+
+
+<p>Other than that, it also offers pre-built cookie consent banner templates and lots of customization options. Plus, you can see consent logs and easily manage them from your WordPress dashboard.</p>
+
+
+
+<p>For this tutorial, I&#8217;ll use the <a href="https://wpconsent.com/pricing/" title="WPConsent Pro version">WPConsent Pro version</a> because it automatically configures cookie data from other plugins like WooCommerce and WPForms. The Pro version also helps see consent records and offers a modal cookie banner template. There is also a <a href="https://wordpress.org/plugins/wpconsent-cookies-banner-privacy-suite/" target="_blank" rel="noopener" title="WPConsent Lite version">WPConsent Lite version</a> that you can use for free and block common 3rd party scripts and core features. </p>
+
+
+
+<p>First, you&#8217;ll need to install and activate the WPConsent plugin on your website. If you need help, then please see this guide on <a href="https://www.wpbeginner.com/beginners-guide/step-by-step-guide-to-install-a-wordpress-plugin-for-beginners/" target="_blank" rel="noopener" title="How to Install a WordPress Plugin – Step by Step for Beginners">how to install a WordPress plugin</a>.</p>
+
+
+
+<p>Once the plugin active, you will see the WPConsent setup wizard. Go ahead and click the &#8216;Let&#8217;s Get Started&#8217; button and follow the onscreen instructions.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="614" src="https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard.png" alt="WPConsent setup wizard" class="wp-image-804" srcset="https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-300x180.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-768x461.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-50x30.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>On the next screen, you&#8217;ll need to enter the license key and click the &#8216;Verify Key&#8217; button. You can find the key in the WPConsent account area. </p>
+
+
+
+<p>After that, simply click the &#8216;Scan Your Website&#8217; button. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="496" src="https://wpconsent.com/wp-content/uploads/2025/03/enter-license-key-and-scan-your-site.png" alt="Enter license key and scan your site" class="wp-image-897" srcset="https://wpconsent.com/wp-content/uploads/2025/03/enter-license-key-and-scan-your-site.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/enter-license-key-and-scan-your-site-300x145.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/enter-license-key-and-scan-your-site-768x372.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/enter-license-key-and-scan-your-site-50x24.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>WPConsent will now perform a scan of your site and detect third-party scripts. </p>
+
+
+
+<p>When the scan is complete, you&#8217;ll see a popup message. Go ahead and click the &#8216;OK&#8217; button. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="448" src="https://wpconsent.com/wp-content/uploads/2025/03/close-scan-complete-popup.png" alt="Close scan complete popup" class="wp-image-898" srcset="https://wpconsent.com/wp-content/uploads/2025/03/close-scan-complete-popup.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/close-scan-complete-popup-300x131.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/close-scan-complete-popup-768x336.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/close-scan-complete-popup-50x22.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After that, WPConsent show the third-party services that may be using cookies on your site. </p>
+
+
+
+<p>You can simply select the service, check the &#8216;Prevent known scripts from adding cookies before consent is given&#8217; option, and click the &#8216;Auto-Configure Selected&#8217; button. This way, the selected scripts will be stopped from adding cookies before a user gives consent.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="568" src="https://wpconsent.com/wp-content/uploads/2025/03/auto-configure-scripts-in-wpconsent.png" alt="Auto configure scripts in WPConsent" class="wp-image-899" srcset="https://wpconsent.com/wp-content/uploads/2025/03/auto-configure-scripts-in-wpconsent.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/auto-configure-scripts-in-wpconsent-300x166.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/auto-configure-scripts-in-wpconsent-768x426.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/auto-configure-scripts-in-wpconsent-50x28.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>On the next screen, WPConsent will show you different cookie banner templates. </p>
+
+
+
+<p>You can simply scroll down and click the &#8216;Save &amp; Complete Setup&#8217; button to exit the setup wizard. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="550" src="https://wpconsent.com/wp-content/uploads/2025/03/click-save-and-complete-setup-wpconsent.png" alt="Click save and complete setup wpconsent" class="wp-image-900" srcset="https://wpconsent.com/wp-content/uploads/2025/03/click-save-and-complete-setup-wpconsent.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/click-save-and-complete-setup-wpconsent-300x161.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/click-save-and-complete-setup-wpconsent-768x413.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/click-save-and-complete-setup-wpconsent-50x27.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Alternatively, you can also head to <strong>WPConsent » Scanner</strong> from the WordPress dashboard to block third-party scripts from adding cookies without consent.</p>
+
+
+
+<p>After that, simply click the &#8216;Scan Your Website&#8217; button. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="444" src="https://wpconsent.com/wp-content/uploads/2025/03/scan-your-site-for-third-party-scripts.png" alt="Scan your site for third party scripts" class="wp-image-901" srcset="https://wpconsent.com/wp-content/uploads/2025/03/scan-your-site-for-third-party-scripts.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/scan-your-site-for-third-party-scripts-300x130.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/scan-your-site-for-third-party-scripts-768x333.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/scan-your-site-for-third-party-scripts-50x22.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Next, you can scroll down to see the detailed report and view which services use cookies on your site.  </p>
+
+
+
+<p>From here, ensure that the &#8216;Prevent known scripts from adding cookies before consent is given&#8217; option is checked and then click the &#8216;Automatically Configure Cookies&#8217; button. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="596" src="https://wpconsent.com/wp-content/uploads/2025/03/automatically-configure-cookies-on-your-site.png" alt="Automatically configure cookies on your site" class="wp-image-902" srcset="https://wpconsent.com/wp-content/uploads/2025/03/automatically-configure-cookies-on-your-site.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/automatically-configure-cookies-on-your-site-300x175.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/automatically-configure-cookies-on-your-site-768x447.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/automatically-configure-cookies-on-your-site-50x29.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>A popup window will now open confirming to automatically configure cookies on your site. </p>
+
+
+
+<p>Go ahead and click the &#8216;Yes&#8217; button to continue. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="433" src="https://wpconsent.com/wp-content/uploads/2025/03/select-yes-to-configure-cookies.png" alt="Select yes to configure cookies" class="wp-image-903" srcset="https://wpconsent.com/wp-content/uploads/2025/03/select-yes-to-configure-cookies.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/select-yes-to-configure-cookies-300x127.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/select-yes-to-configure-cookies-768x325.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/select-yes-to-configure-cookies-50x21.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Once WPConsent populates cookie data from the selected services, you&#8217;ll see a success message. </p>
+
+
+
+<p>You can click the &#8216;Ok&#8217; button to close the message. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="306" src="https://wpconsent.com/wp-content/uploads/2025/03/close-cookie-success-message.png" alt="Close cookie success message" class="wp-image-904" srcset="https://wpconsent.com/wp-content/uploads/2025/03/close-cookie-success-message.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/close-cookie-success-message-300x90.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/close-cookie-success-message-768x230.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/close-cookie-success-message-50x15.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Next, if you want to see the cookie data, then you can head to <strong>WPConsent » Settings</strong> from the admin panel. </p>
+
+
+
+<p>From here, simply switch to the &#8216;Cookies&#8217; tab. Here, you&#8217;ll see details of all the cookies along with their name, ID, description, and duration. WPConsent also lets you edit the details of each cookie and delete them. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="502" src="https://wpconsent.com/wp-content/uploads/2025/03/view-cookie-data-.png" alt="View cookie data" class="wp-image-905" srcset="https://wpconsent.com/wp-content/uploads/2025/03/view-cookie-data-.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/view-cookie-data--300x147.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/view-cookie-data--768x377.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/view-cookie-data--50x25.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Add a Cookie Consent Banner in WordPress</h3>
+
+
+
+<p>After preventing third party scripts from adding cookies without consent on your site, the next step is to show a cookie banner on your site. </p>
+
+
+
+<p>This allows your website visitors to give consent whether they&#8217;d want third party cookies to be added to their browser. It also ensures that you&#8217;re complying with different data privacy laws while building trust with your audience.</p>
+
+
+
+<p>With WPConsent, you get pre-built banner templates with real-time preview. You can simply select a layout, choose its position, and customize the style and content according to your requirements. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="552" src="https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout.png" alt="Edit cookie banner layout" class="wp-image-806" srcset="https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout-300x162.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout-768x414.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout-50x27.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If you need help, then please see our detailed guide on <a href="https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/" title="How to Add a Cookie Consent Banner on Your WordPress Website">how to add a cookie consent banner to your WordPress website</a>.</p>
+
+
+
+<p>For example, here&#8217;s how the banner looks like on our website. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="523" src="https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent.png" alt="Cookie banner on WPConsent" class="wp-image-814" srcset="https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent-300x153.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent-768x392.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent-50x26.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>That’s it! You&#8217;ve successfully created a cookie consent banner and blocked third party cookies in WordPress. </p>
+
+
+
+<p><a href="https://wpconsent.com/pricing/" title="Get WPConsent Today">Give WPConsent a try today</a>&nbsp;and make your site compliant with privacy laws. Plus, you also get automatic script blocking and a compressive cookie management solution.</p>
+
+
+
+<p>If you liked this article, then please follow us on&nbsp;<a href="https://x.com/wpconsent" target="_blank" rel="noopener" title="Follow WPConsent on X Today!">X (formerly known as Twitter)</a>. You can also leave a comment below if you need any assistance.</p><p>The post <a href="https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/">How to Block Third Party Cookies on Your WordPress Website</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://wpconsent.com/how-to-block-third-party-cookies-on-your-wordpress-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Introducing WPConsent 1.0.3: Google Consent Mode V2 Support + Other Major Updates</title>
+		<link>https://wpconsent.com/introducing-wpconsent-1-0-3-google-consent-mode-v2-support-other-major-updates/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=introducing-wpconsent-1-0-3-google-consent-mode-v2-support-other-major-updates</link>
+					<comments>https://wpconsent.com/introducing-wpconsent-1-0-3-google-consent-mode-v2-support-other-major-updates/#respond</comments>
+		
+		<dc:creator><![CDATA[Aazim Akhtar]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 13:25:52 +0000</pubDate>
+				<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[consent management plugin]]></category>
+		<category><![CDATA[cookie banner]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Analytics]]></category>
+		<category><![CDATA[Google Consent Mode V2]]></category>
+		<category><![CDATA[Google Services]]></category>
+		<category><![CDATA[script blocking]]></category>
+		<category><![CDATA[wpconsent]]></category>
+		<category><![CDATA[WPConsent Announcement]]></category>
+		<guid isPermaLink="false">https://wpconsent.com/?p=867</guid>
+
+					<description><![CDATA[<p>Studies show that websites with proper cookie consent management see a higher user engagement and trust. But let&#8217;s be honest – managing cookie consent while keeping up with continually changing privacy regulations can be overwhelming. If your consent management plugin isn&#8217;t optimized for both compliance and conversion, then you might be losing potential customers right [&#8230;]</p>
+<p>The post <a href="https://wpconsent.com/introducing-wpconsent-1-0-3-google-consent-mode-v2-support-other-major-updates/">Introducing WPConsent 1.0.3: Google Consent Mode V2 Support + Other Major Updates</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Studies show that websites with proper cookie consent management see a higher user engagement and trust. But let&#8217;s be honest – managing cookie consent while keeping up with continually changing privacy regulations can be overwhelming.</p>
+
+
+
+<p>If your consent management plugin isn&#8217;t optimized for both compliance and conversion, then you might be losing potential customers right now.</p>
+
+
+
+<p>That&#8217;s why I&#8217;m thrilled to announce <strong>WPConsent 1.0.3</strong>!</p>
+
+
+
+<p>The latest release features full support for Google Consent Mode V2, improved consent log management, and a range of new features and improvements designed to make privacy compliance effortless.</p>
+
+
+
+<p>Let&#8217;s dive into the details. </p>
+
+
+
+<h3 class="wp-block-heading">Google Consent Mode V2 Support</h3>
+
+
+
+<p>Google Consent Mode V2 is a tool created by Google to manage how its analytics and advertising services will operated based on user&#8217;s consent. It basically ensures that user interactions on your site are tracked without compromising privacy. </p>
+
+
+
+<p>With WPConsent, you now get full Google Consent Mode V2 support! </p>
+
+
+
+<p>This is a game-changer for anyone using Google services, such as Google Analytics and Google Ads. When a user visits your site and selects their cookie preferences, Google Consent Mode V2 will adjust the Google tags based on the user&#8217;s consent choices. </p>
+
+
+
+<p>As a result, your website stays compliant with the latest regulations like GDPR, while maximizing your advertising and analytics potential.</p>
+
+
+
+<p>And the best part is that you don&#8217;t have to configure anything manually. WPConsent will handle everything for you. </p>
+
+
+
+<h3 class="wp-block-heading">Enhanced Consent Log Management </h3>
+
+
+
+<p>WPConsent offers a power user consent log management feature, making it super easy to view cookie consent data for better privacy compliance. </p>
+
+
+
+<p>And with this latest release, managing consent logs got a lot easier! </p>
+
+
+
+<p>You can now easily export consent log records in CSV format for compliance documentation. Simply select the date range and hit the Export button. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="602" src="https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs.png" alt="Export consent logs" class="wp-image-869" srcset="https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs-300x176.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs-768x452.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/export-consent-logs-50x29.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Besides that, it&#8217;s now very easy to find different user consent logs. You can simply search and filter the logs to quickly locate a specific record.</p>
+
+
+
+<p>In this new release, you&#8217;ll also see country flags next to IP addresses for each consent record for better user tracking. This helps you to swiftly glance where the user is from and ensure their privacy requirements.</p>
+
+
+
+<h3 class="wp-block-heading">Improved Auto Script Detection, 1-Click Cookie Policy &amp; More</h3>
+
+
+
+<p>That&#8217;s not all! In this new release, you&#8217;re getting more new features and improvements.</p>
+
+
+
+<p>WPConsent now automatically detects and blocks scripts from Google Tag Manager, Stripe, and Convert.com. WPConsent Pro users also get automatic script detection for Cloudflare. </p>
+
+
+
+<p>What makes this even better is that you don&#8217;t have to manually add the cookie data for each of these services. Plus, it helps users which cookies run on your website, so they can decide whether to allow them or not</p>
+
+
+
+<p>Another new feature you now get is 1-click cookie policy configuration. Under WPConsent settings, you&#8217;ll see a new option to <strong>Generate Cookie Policy Page</strong>, which will automatically generate a policy for your  website. </p>
+
+
+
+<p>So if you don&#8217;t a have cookie policy set up for your site, then with a click of a button you can add it to your WordPress site. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="261" src="https://wpconsent.com/wp-content/uploads/2025/03/generate-cookie-policy-page.png" alt="Generate cookie policy page" class="wp-image-876" srcset="https://wpconsent.com/wp-content/uploads/2025/03/generate-cookie-policy-page.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/generate-cookie-policy-page-300x76.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/generate-cookie-policy-page-768x196.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/generate-cookie-policy-page-50x13.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Besides that, WPConsent has improved the accessibility of <a href="https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/" title="How to Add a Cookie Consent Banner on Your WordPress Website">cookie consent banner</a> by adding keyboard navigation. You can simply tab through the banner when it&#8217;s first loaded.</p>
+
+
+
+<p>These new features and improvements are now live for both WPConsent Lite and Pro users. </p>
+
+
+
+<p>So what are you waiting for? <a href="https://wpconsent.com/pricing/" title="Get WPConsent Today">Upgrade to WPConsent 1.0.3 today</a> and use the most powerful consent management solution for WordPress.</p>
+
+
+
+<p>If you have any questions or need more information, don’t hesitate to reach out. Our team is always here to <a href="https://wpconsent.com/contact/" title="Contact Us for Assistance ">assist you</a>. </p><p>The post <a href="https://wpconsent.com/introducing-wpconsent-1-0-3-google-consent-mode-v2-support-other-major-updates/">Introducing WPConsent 1.0.3: Google Consent Mode V2 Support + Other Major Updates</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://wpconsent.com/introducing-wpconsent-1-0-3-google-consent-mode-v2-support-other-major-updates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Add a Cookie Consent Banner on Your WordPress Website</title>
+		<link>https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-add-a-cookie-consent-banner-on-your-wordpress-website</link>
+					<comments>https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Aazim Akhtar]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 11:30:00 +0000</pubDate>
+				<category><![CDATA[Informational]]></category>
+		<category><![CDATA[CCPA]]></category>
+		<category><![CDATA[consent management plugin]]></category>
+		<category><![CDATA[cookie banner]]></category>
+		<category><![CDATA[cookie consent]]></category>
+		<category><![CDATA[cookie consent banner]]></category>
+		<category><![CDATA[data privacy]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[script blocking]]></category>
+		<category><![CDATA[wpconsent]]></category>
+		<guid isPermaLink="false">https://wpconsent.com/?p=796</guid>
+
+					<description><![CDATA[<p>Think about visiting your favorite website and seeing a little message pop up, asking if you&#8217;re okay with cookies. These messages are cookie consent banners, and they are like a polite way for websites to ask permission. They are often needed because of privacy laws like GDPR in Europe or CCPA in California. These regulations [&#8230;]</p>
+<p>The post <a href="https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/">How to Add a Cookie Consent Banner on Your WordPress Website</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Think about visiting your favorite website and seeing a little message pop up, asking if you&#8217;re okay with cookies. These messages are cookie consent banners, and they are like a polite way for websites to ask permission. </p>
+
+
+
+<p>They are often needed because of privacy laws like GDPR in Europe or CCPA in California. These regulations protect people&#8217;s information online. They also require websites to be clear about what cookies they use and what information they collect.</p>
+
+
+
+<p>If you have a WordPress website, then adding a cookie banner helps ensure compliance with privacy rules. While you might think it requires coding and technical skills, but it&#8217;s easier than that. With the right plugin like WPConsent, you can easily insert and customize a cookie banner with no coding.</p>
+
+
+
+<p>In this article, we will show you how to easily add a cookie consent banner to your WordPress website. </p>
+
+
+
+<h3 class="wp-block-heading">What are Cookies? </h3>
+
+
+
+<p>Cookies are small files that websites put on your computer or phone browser when you visit them.</p>
+
+
+
+<p>Think of them like little helpers for websites. They remember things about your visit, your login information, and other details. This way, you don&#8217;t have to log in again or change website preferences each time you visit a site.</p>
+
+
+
+<p>Websites use cookies to make things easier for you. They also use them to learn about what people do on their site. For instance, some are needed to make the website work right. While others are used to see which parts of the site are popular or help show you ads that might interest you.</p>
+
+
+
+<h3 class="wp-block-heading">Why Add a Cookie Consent Banner in WordPress?</h3>
+
+
+
+<p>So, why do you need a cookie banner on your WordPress site? There are a few good reasons. </p>
+
+
+
+<p>First, it&#8217;s about following the law like GDPR and CCPA, which often mean you must have a banner on your WordPress site. If you don&#8217;t, then you could get into a lot of trouble. This could mean fines or other legal problems. </p>
+
+
+
+<p>For example, GDPR sets a maximum fine of €20 million or 4% of annual global turnover (whichever is higher) if a website fails to meet its requirements. </p>
+
+
+
+<p>Second, it builds trust. When you are open about cookies, people feel safer on your site. This can make visitors more likely to come back and help build trust with your brand.</p>
+
+
+
+<p>Here&#8217;s an example of how a cookie consent banner looks like on WPBeginner. It&#8217;s a small popup that appears at the bottom of the screen.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="616" src="https://wpconsent.com/wp-content/uploads/2025/03/cookie-consent-banner-preview-2.png" alt="Cookie consent banner preview" class="wp-image-809" srcset="https://wpconsent.com/wp-content/uploads/2025/03/cookie-consent-banner-preview-2.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-consent-banner-preview-2-300x180.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-consent-banner-preview-2-768x462.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-consent-banner-preview-2-50x30.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Finally, it&#8217;s just the right thing to do. Being clear about data is a good practice. It shows you care about your visitors. Even if the laws didn&#8217;t exist, being upfront is a good way to run a website. </p>
+
+
+
+<p>That said, let&#8217;s look at a simple way of adding a cookie consent banner in WordPress. </p>
+
+
+
+<h3 class="wp-block-heading">Adding Cookie Consent Banner in WordPress</h3>
+
+
+
+<p>Adding a cookie banner might seem hard, but with <a href="https://wpconsent.com/" title="WPConsent">WPConsent</a>, it&#8217;s easier than ever. It is the best WordPress consent management plugin and makes it super easy to add cookie banners to your site.</p>
+
+
+
+<p>Besides that, you can automatically scan your site for services that are using cookies, manage them from a single place, block third party scripts, and much more. </p>
+
+
+
+<p>For this tutorial, we will use the <a href="https://wpconsent.com/pricing/" title="WPConsent Pro">WPConsent Pro</a> version because it offers a modal banner layout, automatic cookie configuration, consent logs, and more. There is also a <a href="https://wordpress.org/plugins/wpconsent-cookies-banner-privacy-suite/" target="_blank" rel="noopener" title="WPConsent Lite">WPConsent Lite</a> version which you can use for free and add a consent banner on your website.</p>
+
+
+
+<p>To get started, you&#8217;ll need to install and activate the WPConsent plugin. If you need help, then please see this guide on <a href="https://www.wpbeginner.com/beginners-guide/step-by-step-guide-to-install-a-wordpress-plugin-for-beginners/" target="_blank" rel="noopener" title="How to Install a WordPress Plugin – Step by Step for Beginners">how to install a WordPress plugin</a>. </p>
+
+
+
+<p>Upon activation, the WPConsent setup wizard will open. You can click the &#8216;Let&#8217;s Get Started&#8217; button and follow the onscreen instructions to complete the setup process.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="614" src="https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard.png" alt="WPConsent setup wizard" class="wp-image-804" srcset="https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-300x180.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-768x461.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/wpconsent-setup-wizard-50x30.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After that, you will need to head to <strong>WPConsent » Settings</strong> from the WordPress admin panel. </p>
+
+
+
+<p>From here, go to the &#8216;Cookie Configuration&#8217; section and ensure the <strong>Consent Banner</strong> toggle is active. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="317" src="https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-banner.png" alt="Enable consent banner" class="wp-image-818" srcset="https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-banner.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-banner-300x93.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-banner-768x238.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/enable-consent-banner-50x15.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If you scroll down, then you&#8217;ll also see the Cookie Categories. </p>
+
+
+
+<p>WPConsent will group cookies into 3 main categories, which includes essential, statistics, and marketing. You edit each of these categories by clicking the pencil icon, and also add more by clicking the &#8216;Add New Category&#8217; link.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="391" src="https://wpconsent.com/wp-content/uploads/2025/03/cookie-categories.png" alt="Cookie categories" class="wp-image-819" srcset="https://wpconsent.com/wp-content/uploads/2025/03/cookie-categories.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-categories-300x115.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-categories-768x293.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-categories-50x19.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>For most WordPress websites, the default settings will work perfectly.</p>
+
+
+
+<p>That said, let&#8217;s see how you can edit the cookie consent banner by using WPConsent.</p>
+
+
+
+<h3 class="wp-block-heading">Customize Your Cookie Consent Banner</h3>
+
+
+
+<p>Next, you will need to go to <strong>WPConsent » Banner Design</strong> to customize the appearance of your cookie banner. </p>
+
+
+
+<p>WPConsent offers 3 layouts to choose from. You can pick a long banner, floating banner, or a modal banner. There are also options to choose the position of the banner if you select the long or floating banners. You can select whether it should appear at the top or bottom of your website.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="552" src="https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout.png" alt="Edit cookie banner layout" class="wp-image-806" srcset="https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout-300x162.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout-768x414.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-layout-50x27.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If you select the Modal Banner option, then it will appear as a popup window. This is a great alternative for getting consent from users if you don&#8217;t want to show a sticky banner on your website. </p>
+
+
+
+<p>Next, you can switch to the &#8216;Style&#8217; tab at the top. Here, you&#8217;ll find options to change the background color, text color, button styling, and button color for your cookie consent banner. This allows you to fully customize the banner according to your brand. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="651" src="https://wpconsent.com/wp-content/uploads/2025/03/edit-the-style-settings-.png" alt="Edit the style settings" class="wp-image-807" srcset="https://wpconsent.com/wp-content/uploads/2025/03/edit-the-style-settings-.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/edit-the-style-settings--300x191.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/edit-the-style-settings--768x488.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/edit-the-style-settings--50x32.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After that, you can head to the &#8216;Content&#8217; tab and edit the text that will appear in the banner. </p>
+
+
+
+<p>By default, WPConsent will already provide a text that you can use for your website. Simply modify the existing text or add your own under the Message area. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="562" src="https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-content.png" alt="Edit cookie banner content" class="wp-image-810" srcset="https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-content.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-content-300x165.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-content-768x422.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/edit-cookie-banner-content-50x27.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If you scroll down, then you&#8217;ll find more options to edit the content of the banner.</p>
+
+
+
+<p>For instance, there are options to change the button text, rearrange their order, and also select which buttons to display. You can also add a logo or icon, and enable the option to show &#8216;Powered by WPConsent&#8217; in the banner. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="562" src="https://wpconsent.com/wp-content/uploads/2025/03/change-buttons-and-logo-icon.png" alt="Change buttons and logo icon" class="wp-image-811" srcset="https://wpconsent.com/wp-content/uploads/2025/03/change-buttons-and-logo-icon.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/change-buttons-and-logo-icon-300x165.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/change-buttons-and-logo-icon-768x422.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/change-buttons-and-logo-icon-50x27.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>When you&#8217;re done, simply scroll to the top and click the &#8216;Save&#8217; button. </p>
+
+
+
+<p>The best part is that you can click the &#8216;Preview&#8217; button and see how your banner looks like. This way, you can quickly make changes and adjust the appearance of the banner. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="479" src="https://wpconsent.com/wp-content/uploads/2025/03/save-and-preview-banner.png" alt="Save and preview banner" class="wp-image-813" srcset="https://wpconsent.com/wp-content/uploads/2025/03/save-and-preview-banner.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/save-and-preview-banner-300x140.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/save-and-preview-banner-768x359.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/save-and-preview-banner-50x23.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You&#8217;ve now successfully created a cookie consent banner in WordPress.</p>
+
+
+
+<p>You can visit your website to see it in action. Here&#8217;s how it looks like on our website. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="523" src="https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent.png" alt="Cookie banner on WPConsent" class="wp-image-814" srcset="https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent-300x153.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent-768x392.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-banner-on-wpconsent-50x26.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Users can simply click the Accept or Reject button to accept cookies. </p>
+
+
+
+<p>They can also click the &#8216;Preferences&#8217; button and choose which type of cookies to allows. </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="512" src="https://wpconsent.com/wp-content/uploads/2025/03/cookie-preferences.png" alt="Cookie preferences" class="wp-image-816" srcset="https://wpconsent.com/wp-content/uploads/2025/03/cookie-preferences.png 1024w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-preferences-300x150.png 300w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-preferences-768x384.png 768w, https://wpconsent.com/wp-content/uploads/2025/03/cookie-preferences-50x25.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>That&#8217;s it! You can easily create and customize cookie consent popups in WordPress using WPConsent. </p>
+
+
+
+<p><a href="https://wpconsent.com/pricing/" title="Give WPConsent a Try!">Give WPConsent a try today</a> and make your site compliant with privacy laws. Plus, you also get automatic script blocking and a compressive cookie management solution. </p>
+
+
+
+<p>If you liked this article, then please follow us on <a href="https://x.com/wpconsent" target="_blank" rel="noopener nofollow" title="Follow WPConsent on X">X (formerly known as Twitter)</a>. You can also leave a comment below if you need any assistance. </p><p>The post <a href="https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/">How to Add a Cookie Consent Banner on Your WordPress Website</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://wpconsent.com/how-to-add-a-cookie-consent-banner-on-your-wordpress-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Introducing WPConsent — Customizable Cookie Banner, Script Blocking, and More</title>
+		<link>https://wpconsent.com/introducing-wpconsent-customizable-cookie-banner-script-blocking-and-more/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=introducing-wpconsent-customizable-cookie-banner-script-blocking-and-more</link>
+					<comments>https://wpconsent.com/introducing-wpconsent-customizable-cookie-banner-script-blocking-and-more/#respond</comments>
+		
+		<dc:creator><![CDATA[Mircea Sandu]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 05:14:00 +0000</pubDate>
+				<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[best wordpress consent management plugin]]></category>
+		<category><![CDATA[CCPA]]></category>
+		<category><![CDATA[consent management plugin]]></category>
+		<category><![CDATA[cookie banner]]></category>
+		<category><![CDATA[cookies]]></category>
+		<category><![CDATA[data privacy]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[script blocking]]></category>
+		<category><![CDATA[wpconsent]]></category>
+		<guid isPermaLink="false">https://wpconsent.com/?p=516</guid>
+
+					<description><![CDATA[<p>If you&#8217;ve ever tried to implement a cookie consent solution in WordPress like I have, then you know it can be a headache. Website privacy and user consent are more important than ever before. Regulations like GDPR and CCPA require website owners to be transparent about data collection. However, setting up compliance is easier said [&#8230;]</p>
+<p>The post <a href="https://wpconsent.com/introducing-wpconsent-customizable-cookie-banner-script-blocking-and-more/">Introducing WPConsent — Customizable Cookie Banner, Script Blocking, and More</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>If you&#8217;ve ever tried to implement a cookie consent solution in WordPress like I have, then you know it can be a headache.</p>
+
+
+
+<p>Website privacy and user consent are more important than ever before. Regulations like GDPR and CCPA require website owners to be transparent about data collection.</p>
+
+
+
+<p>However, setting up compliance is easier said than done. It&#8217;s a lot to juggle, and often involves hours of manual set up or complicated integrations.&nbsp;</p>
+
+
+
+<p>That&#8217;s why, I am incredibly excited to announce the launch of <strong>WPConsent</strong>!&nbsp;&nbsp;</p>
+
+
+
+<p>It simplifies the process of setting up consent and ensures your website is compliant with different regulations.</p>
+
+
+
+<p>Let’s take a closer look at what you can do with WPConsent.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Automatically Scan Your Site for Cookies&nbsp;</h3>
+
+
+
+<p>Wouldn’t it be nice if you could see which services are using cookies on your website?</p>
+
+
+
+<p>WPConsent makes it super easy to do that!&nbsp;</p>
+
+
+
+<p>It will automatically scan your site and detect the scripts and integrations that use cookies.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="451" src="https://wpconsent.com/wp-content/uploads/2025/01/perform-a-cookie-scan.png" alt="Perform a cookie scan" class="wp-image-517" srcset="https://wpconsent.com/wp-content/uploads/2025/01/perform-a-cookie-scan.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/perform-a-cookie-scan-300x132.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/perform-a-cookie-scan-768x338.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/perform-a-cookie-scan-50x22.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>What’s more is that WPConsent will automatically block these scripts until the user gives consent.&nbsp;</p>
+
+
+
+<p>And if you want more information, then you can also see a detailed report of all the services that use cookies.&nbsp;</p>
+
+
+
+<p>But what separates WPConsent from the rest is that you no longer have to manually add the cookie data from each service to your site. This way, you can tell users which cookies run on your website, so they can decide whether to allow them or not.</p>
+
+
+
+<p>Simply click the ‘Automatically Configure Cookies’ button and the plugin will handle everything for you.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="512" src="https://wpconsent.com/wp-content/uploads/2025/01/view-detailed-cookie-scan-report.png" alt="View detailed cookie scan report" class="wp-image-518" srcset="https://wpconsent.com/wp-content/uploads/2025/01/view-detailed-cookie-scan-report.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/view-detailed-cookie-scan-report-300x150.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/view-detailed-cookie-scan-report-768x384.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/view-detailed-cookie-scan-report-50x25.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Manage Cookies from a Single Place</h3>
+
+
+
+<p>Once you’ve identified the cookies on your site, you can easily manage them in WPConsent.&nbsp;</p>
+
+
+
+<p>You’ll see the list of all the cookies with their name, ID, description and duration.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="568" src="https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings.png" alt="Manage cookie settings" class="wp-image-519" srcset="https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings-300x166.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings-768x426.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/manage-cookie-settings-50x28.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Next, you can edit each cookie or add new ones to the list.&nbsp;</p>
+
+
+
+<p>For instance, there are options to choose a service, enter a name and ID, add a description, and select the duration.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="641" src="https://wpconsent.com/wp-content/uploads/2025/01/edit-cookie-details.png" alt="Edit cookie details" class="wp-image-520" srcset="https://wpconsent.com/wp-content/uploads/2025/01/edit-cookie-details.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/edit-cookie-details-300x188.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/edit-cookie-details-768x481.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/edit-cookie-details-50x31.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>By default, the WPConsent will sort cookies under essential, statistics, and marketing categories. But, you can create more categories and edit the existing ones according to your requirements.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Create Stunning Cookie Banners Without Coding</h3>
+
+
+
+<p>With WPConsent, I wanted the process of adding a cookie banner to be effortless and super easy.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>You can now create a consent banner that matches your website&#8217;s branding without touching a single line of code or any complicated set up. There are pre-built layouts to select from, allowing you to quickly select a style and position to show the banner on your site.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="606" src="https://wpconsent.com/wp-content/uploads/2025/01/choose-banner-layout.png" alt="Choose banner layout" class="wp-image-521" srcset="https://wpconsent.com/wp-content/uploads/2025/01/choose-banner-layout.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/choose-banner-layout-300x178.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/choose-banner-layout-768x455.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/choose-banner-layout-50x30.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The best part, you get complete control over the appearance of the banner.&nbsp;</p>
+
+
+
+<p>WPConsent lets you customize the colors, font size, font, and layout of the background and buttons to seamlessly match your website design. You can also change the message and choose which buttons will appear in the banner.&nbsp;</p>
+
+
+
+<p>To top it all off, WPConsent shows a live preview inside the WordPress dashboard, so you can see how the cookie banner will look on your website.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="607" src="https://wpconsent.com/wp-content/uploads/2025/01/change-style-settings-of-cookie-banner.png" alt="Change style settings of cookie banner" class="wp-image-522" srcset="https://wpconsent.com/wp-content/uploads/2025/01/change-style-settings-of-cookie-banner.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/change-style-settings-of-cookie-banner-300x178.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/change-style-settings-of-cookie-banner-768x455.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/change-style-settings-of-cookie-banner-50x30.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Enable Geolocation to Display a Cookie Banner</h3>
+
+
+
+<p>One of the challenging tasks my team faced when complying with data protection laws was to display a cookie banner only for residents in a particular country.&nbsp;</p>
+
+
+
+<p>Learning from our experience, WPConsent offers a Geolocation cookie banner feature.&nbsp;</p>
+
+
+
+<p>You can now simply enable this feature and display a cookie banner to users from specific countries. Plus, there is a dedicated option to show the banner to only EU visitors.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="528" src="https://wpconsent.com/wp-content/uploads/2025/01/wpconsent-geolocation.png" alt="WPConsent geolocation" class="wp-image-523" srcset="https://wpconsent.com/wp-content/uploads/2025/01/wpconsent-geolocation.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/wpconsent-geolocation-300x155.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/wpconsent-geolocation-768x396.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/wpconsent-geolocation-50x26.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Easy Cookie Policy Configuration</h3>
+
+
+
+<p>Would you like to display a cookie policy on your website in just a few clicks?</p>
+
+
+
+<p>WPConsent makes it super easy to add essential cookies&#8217; information on any page using a shortcode. </p>
+
+
+
+<p>You can then select that page in the plugin settings, so users can view all the details when they manage the cookie preferences from the consent banner.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="435" src="https://wpconsent.com/wp-content/uploads/2025/01/choose-your-cookie-policy-page.png" alt="Choose your cookie policy page" class="wp-image-524" srcset="https://wpconsent.com/wp-content/uploads/2025/01/choose-your-cookie-policy-page.png 1024w, https://wpconsent.com/wp-content/uploads/2025/01/choose-your-cookie-policy-page-300x127.png 300w, https://wpconsent.com/wp-content/uploads/2025/01/choose-your-cookie-policy-page-768x326.png 768w, https://wpconsent.com/wp-content/uploads/2025/01/choose-your-cookie-policy-page-50x21.png 50w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Now, we’re just getting started by introducing these features in WPConsent. But there&#8217;s a lot more planned for you, so stay turned!</p>
+
+
+
+<p>Yours Truly,<br>Mircea Sandu<br>Co-Founder of WPConsent &amp; WPCode</p><p>The post <a href="https://wpconsent.com/introducing-wpconsent-customizable-cookie-banner-script-blocking-and-more/">Introducing WPConsent — Customizable Cookie Banner, Script Blocking, and More</a> first appeared on <a href="https://wpconsent.com">WPConsent</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://wpconsent.com/introducing-wpconsent-customizable-cookie-banner-script-blocking-and-more/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Doctor &#8211; Abbington House Rehab</title>
+	<atom:link href="https://abbingtonhouse.co.uk/team-roles/on-site-doctor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abbingtonhouse.co.uk</link>
+	<description></description>
+	<lastBuildDate>Wed, 23 Apr 2025 09:33:12 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://abbingtonhouse.co.uk/wp-content/uploads/2025/02/cropped-abbington-favicon-32x32.png</url>
+	<title>Doctor &#8211; Abbington House Rehab</title>
+	<link>https://abbingtonhouse.co.uk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dr. Olalekan Otulana</title>
+		<link>https://abbingtonhouse.co.uk/meet-our-team/dr-olalekan-otulana/</link>
+					<comments>https://abbingtonhouse.co.uk/meet-our-team/dr-olalekan-otulana/#respond</comments>
+		
+		<dc:creator><![CDATA[Rob Lloyd]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 13:47:00 +0000</pubDate>
+				<guid isPermaLink="false">https://search-recovery.com/abbingtonhouse/cmsms_doctor/dr-olalekan-otulana/</guid>
+
+					<description><![CDATA[Dr Otulana has had a working relationship with members of our team since 2012, with the sole purpose of helping those who suffer with Alcohol &#38; Substance Misuse Disorder.&#160; Dr Otulana is a highly experienced GP and Addiction Specialist Physician. He has a specialist interest in Substance Misuse Management, and he has a wide range...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="41675" class="elementor elementor-41675" data-elementor-post-type="meet-our-team">
+				<div class="elementor-element elementor-element-35649300 e-flex e-con-boxed cmsmasters-block-default e-con e-parent" data-id="35649300" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1000a31c cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="1000a31c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="p1">Dr Otulana has had a working relationship with members of our team since 2012, with the sole purpose of helping those who suffer with Alcohol &amp; Substance Misuse Disorder.&nbsp;</p>
+<p class="p1">Dr Otulana is a highly experienced GP and Addiction Specialist Physician. He has a specialist interest in Substance Misuse Management, and he has a wide range of experience in the assessment, management (especially detoxification) and residential rehabilitation of patients with Alcohol and substance addiction problems. His main aim is to comprehensively assess patients with addiction problems and decide their treatment needs for medical etoxification treatments. He is also experienced in managing patients who require dual drug and alcohol detoxification treatments.</p>
+<p class="p1">Ola also has a versatile portfolio of expertise and experience including an MBA from the University of Cambridge; hence he has been involved in strategic decision making, development of clinical protocols and other matters that have positively enhanced patient care outcomes within the publication Rehab Today.</p>
+<p class="p1">Dr Otulana started practising as a doctor in 2000 and with over 14 years as an&nbsp;Addiction Physician. He is an Advanced Addiction Practitioner Member of Addiction Professionals and holds the Certificate in Clinical Psychopharmacology (Part 1) of the British Association for Psychopharmacology.</p>								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://abbingtonhouse.co.uk/meet-our-team/dr-olalekan-otulana/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

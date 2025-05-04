@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Founder &#8211; Abbington House Rehab</title>
+	<atom:link href="https://abbingtonhouse.co.uk/team-roles/founder/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abbingtonhouse.co.uk</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Apr 2025 20:17:38 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://abbingtonhouse.co.uk/wp-content/uploads/2025/02/cropped-abbington-favicon-32x32.png</url>
+	<title>Founder &#8211; Abbington House Rehab</title>
+	<link>https://abbingtonhouse.co.uk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Greg Georghiou</title>
+		<link>https://abbingtonhouse.co.uk/meet-our-team/greg-georghiou/</link>
+					<comments>https://abbingtonhouse.co.uk/meet-our-team/greg-georghiou/#respond</comments>
+		
+		<dc:creator><![CDATA[Rob Lloyd]]></dc:creator>
+		<pubDate>Sat, 01 Feb 2025 13:47:33 +0000</pubDate>
+				<guid isPermaLink="false">https://search-recovery.com/abbingtonhouse/cmsms_doctor/greg-georghiou/</guid>
+
+					<description><![CDATA[As the Founder of Abbington House and as someone in both business and long-term recovery myself, I’ve seen firsthand the transformative power of the right support in overcoming addiction. My own journey has been far from easy, but it&#8217;s shown me how deeply recovery can reshape our lives and help us bring our talents to the fore enabling...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="41691" class="elementor elementor-41691" data-elementor-post-type="meet-our-team">
+				<div class="elementor-element elementor-element-720b6c80 e-flex e-con-boxed cmsmasters-block-default e-con e-parent" data-id="720b6c80" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2efbf9f5 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="2efbf9f5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-weight: 400;">A</span><span class="s1">s the Founder of Abbington House and as someone in </span><span class="s2">both business </span><span class="s1">and long-term recovery myself, I’ve seen firsthand the transformative power of the right support in overcoming addiction. My own journey has been far from easy, </span><span class="s2">but it&#8217;s shown me how deeply recovery can reshape our lives and help us bring our talents to the fore enabling us to be the people we were meant to be and focus on what we’re truly good at. </span><span class="s1">I bring that experience and understanding to my work, helping clients see that lasting change is possible. My approach is rooted in empathy, honesty, and a genuine commitment to each individual’s journey toward a healthier, fulfilling life.</span></p><p class="p2"><span class="s3">I understand the challenges that families face when a loved one is battling addiction, as I have walked this path myself. This personal experience shapes my perspective and strengthens my dedication to creating a space where clients and their families feel supported, respected, and empowered. Recovery isn’t just about stopping a behaviour—it’s about building a life that makes freedom from addiction sustainable. That’s the heart of Abbington House, and it’s what I’m proud to contribute every day.</span></p>								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://abbingtonhouse.co.uk/meet-our-team/greg-georghiou/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

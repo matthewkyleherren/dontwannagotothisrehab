@@ -1,0 +1,8 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemaps
+Sitemap: https://www.knowledgebase.com/sitemap.xml

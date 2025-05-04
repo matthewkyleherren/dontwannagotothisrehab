@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manager &#8211; Abbington House Rehab</title>
+	<atom:link href="https://abbingtonhouse.co.uk/team-roles/manager/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abbingtonhouse.co.uk</link>
+	<description></description>
+	<lastBuildDate>Wed, 23 Apr 2025 09:32:37 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://abbingtonhouse.co.uk/wp-content/uploads/2025/02/cropped-abbington-favicon-32x32.png</url>
+	<title>Manager &#8211; Abbington House Rehab</title>
+	<link>https://abbingtonhouse.co.uk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Emily Bricknell</title>
+		<link>https://abbingtonhouse.co.uk/meet-our-team/emily-bricknell/</link>
+					<comments>https://abbingtonhouse.co.uk/meet-our-team/emily-bricknell/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 16:08:42 +0000</pubDate>
+				<guid isPermaLink="false">https://abbingtonhouse.co.uk/?post_type=meet-our-team&#038;p=45491</guid>
+
+					<description><![CDATA[My purpose here at Abbington House is safety, wellbeing and maintaining our spirit. Our sense of community flows from the staff all the way through to the clients and it is amazing to see our clients transform as they make their way through the Abbington journey. We help people through the dark times and help...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="45491" class="elementor elementor-45491" data-elementor-post-type="meet-our-team">
+				<div class="elementor-element elementor-element-e4b283d e-flex e-con-boxed cmsmasters-block-default e-con e-parent" data-id="e4b283d" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4665902 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="4665902" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>My purpose here at Abbington House is safety, wellbeing and maintaining our spirit. Our sense of community flows from the staff all the way through to the clients and it is amazing to see our clients transform as they make their way through the Abbington journey. We help people through the dark times and help them see that there is a light at the end of the tunnel. It is my job to make sure that everyone has a voice ready to be heard, that everyone can come to our haven and feel safe and to protect everyone here.</p><p>I come with extensive managerial experience within the Health and Social Care sector and a sense of not only sympathy but empathy. Working at Abbington House has transformed not just my outlook, but the people we come into contact with. I understand that addiction can be pernicious to not only individuals but their loved ones and it is incredible that we can offer assistance to not only our clients, but their loved ones too. We keep in contact with our clients and loved ones to ensure that Abbington house is just the beginning of a new life filled with peace, fulfilment and hope.</p>								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://abbingtonhouse.co.uk/meet-our-team/emily-bricknell/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
